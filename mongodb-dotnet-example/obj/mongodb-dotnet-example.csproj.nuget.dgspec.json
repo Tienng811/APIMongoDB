@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david.nguyen\\source\\repos\\mongodb-dotnet-example\\mongodb-dotnet-example.csproj": {}
+    "C:\\Users\\david.nguyen\\Source\\Repos\\APIMongoDB\\mongodb-dotnet-example\\mongodb-dotnet-example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david.nguyen\\source\\repos\\mongodb-dotnet-example\\mongodb-dotnet-example.csproj": {
+    "C:\\Users\\david.nguyen\\Source\\Repos\\APIMongoDB\\mongodb-dotnet-example\\mongodb-dotnet-example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david.nguyen\\source\\repos\\mongodb-dotnet-example\\mongodb-dotnet-example.csproj",
+        "projectUniqueName": "C:\\Users\\david.nguyen\\Source\\Repos\\APIMongoDB\\mongodb-dotnet-example\\mongodb-dotnet-example.csproj",
         "projectName": "mongodb-dotnet-example",
-        "projectPath": "C:\\Users\\david.nguyen\\source\\repos\\mongodb-dotnet-example\\mongodb-dotnet-example.csproj",
+        "projectPath": "C:\\Users\\david.nguyen\\Source\\Repos\\APIMongoDB\\mongodb-dotnet-example\\mongodb-dotnet-example.csproj",
         "packagesPath": "C:\\Users\\david.nguyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david.nguyen\\source\\repos\\mongodb-dotnet-example\\obj\\",
+        "outputPath": "C:\\Users\\david.nguyen\\Source\\Repos\\APIMongoDB\\mongodb-dotnet-example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",

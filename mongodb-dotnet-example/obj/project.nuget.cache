@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GF40NdOf3yvcJ2LqbXPUgxJ4MytVhYejAlsNgRQNdMnFljU/FmGlsFtNIzFku85ayV/Q/Sb0O9sfBw81k5EtAA==",
+  "dgSpecHash": "7eEJ613jnskRDf8Qe7NeqhXRhtYekIcPzdFM0FsFIXZSrUS7imd2irXoVlyLMhcqq/Bs1yNuFRetRwIi8ARvzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david.nguyen\\source\\repos\\mongodb-dotnet-example\\mongodb-dotnet-example.csproj",
+  "projectFilePath": "C:\\Users\\david.nguyen\\Source\\Repos\\APIMongoDB\\mongodb-dotnet-example\\mongodb-dotnet-example.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david.nguyen\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\david.nguyen\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
